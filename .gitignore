@@ -1,7 +1,0 @@
-data/
-*.zarr
-*.tif
-*.nc
-*.csv
-*.npy
-*.npz
